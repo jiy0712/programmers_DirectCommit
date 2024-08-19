@@ -1,2 +1,2 @@
-# programmers_DirectCommit
-프로그래머스 커밋오류일때 직접 커밋하는 레퍼지토리입니다.
+# programmers_jiy0712
+👩‍💻 코딩 테스트 관련 파일들을 올리는 곳입니다
